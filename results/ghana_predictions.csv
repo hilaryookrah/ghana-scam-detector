@@ -1,0 +1,121 @@
+text,is_scam,pred,scam_prob
+"Hello, I sent GHS 300 to your number by mistake. Please reverse it urgently, I need it for hospital bills.",1,0,0.488
+"Pls my brother I mistakenly sent you 150 cedis, kindly send it back to this number asap God bless you",1,0,0.201
+"MoMo: You have received GHS 500.00 from Kwame Mensah. Please return GHS 500 to the sender, it was sent in error.",1,1,0.58
+"Good evening madam, wrong transfer of GHS 1,200 entered your wallet. Kindly refund me now before my boss finds out",1,0,0.219
+"Sorry to disturb, I sent 80 cedis to you instead of my sister. Please reverse to this line quickly, I am stranded",1,0,0.258
+"Please I need help, my money 250 GHS entered your account by error. Reverse it, I will call you after",1,0,0.408
+Dear user you were credited GHS 700 wrongly. Send it back to avoid your wallet being blocked,1,0,0.267
+"Bro that 400 I sent was a mistake o. Return it now, the police will be involved if you delay",1,0,0.168
+"Hi, I accidentally paid GHS 95 into your wallet. Please send it to the number I am texting from. Thanks",1,0,0.403
+"Your wallet has been credited with GHS 2,000 by mistake. Kindly return 1,800 and keep 200 for your trouble",1,1,0.664
+"MTN MoMo: Your account has been hacked. To secure it, reply with your old PIN now.",1,1,0.797
+"Dear customer, we detected a problem on your mobile money wallet. Send your PIN to this number to avoid suspension.",1,1,0.769
+Telecel Cash: your wallet will be blocked in 24 hours. Confirm your PIN and ID number to verify your account.,1,1,0.602
+This is MoMo support. We are upgrading accounts. Please send your 4 digit PIN and the code you will receive.,1,1,0.611
+Your SIM will be deactivated today. Reply with your Ghana Card number and mobile money PIN to keep your line.,1,1,0.84
+"Hello, I am calling from the network about unauthorized transactions. Please read me the code we just sent you.",1,0,0.289
+AirtelTigo Money alert: suspicious login detected. Send your PIN to 0200000000 to cancel the transaction.,1,1,0.539
+"Your mobile money limit has expired. To renew, reply with your PIN and date of birth immediately.",1,1,0.913
+"We have reversed a pending withdrawal. To confirm, forward the OTP you just received to this number.",1,0,0.301
+Security notice: your wallet is under review. Share your PIN with our agent to avoid losing your balance.,1,1,0.613
+"CONGRATULATIONS! You have won GHS 10,000 in the MoMo anniversary draw. Send GHS 50 to claim your prize.",1,1,0.964
+You are the lucky winner of a brand new iPhone from Telecel. Pay the delivery fee of 100 cedis to receive it.,1,1,0.707
+Winner! Your number was selected for a free car. Contact Mr. Owusu on WhatsApp with your details to claim.,1,1,0.919
+"You have won 5000 cedis in the Ghana Lotto bonus. To collect, send processing fee 120 cedis to this wallet.",1,1,0.88
+"Dear subscriber, you won GHS 3,000. Reply with your full name, ID and PIN to receive the money today.",1,1,0.756
+Your SIM won a data bonanza of 100GB. Click this link and enter your details to activate before midnight.,1,1,0.699
+"Special offer: pay GHS 30 and win a 10,000 cedi shopping voucher. Limited slots, send now.",1,1,0.668
+You have been picked in our Christmas giveaway. Send GHS 40 registration fee to be added to the winners list.,1,1,0.62
+"Urgent hiring! Earn GHS 2,500 weekly working from home. Send 150 cedis registration fee to secure your slot.",1,1,0.871
+"Visa approved for Canada farm work. Pay 3,000 cedis processing fee to this number to receive your documents.",1,1,0.623
+"Congratulations, you have been shortlisted for the oil company job. Pay 200 cedis for medical and uniform.",1,0,0.483
+Scholarship award notification: you qualify for a full scholarship. Send 500 cedis admin fee to confirm your seat.,1,1,0.66
+"Recruitment alert: government job openings, no interview needed. Pay GHS 350 and get your appointment letter.",1,0,0.241
+"Online typing job, earn 100 cedis per hour. Buy the starter pack for 80 cedis to begin today.",1,0,0.399
+You have been selected for the US lottery visa. Send your passport copy and 600 cedis to this wallet to proceed.,1,1,0.795
+"Airline staff recruitment ongoing. Application form costs 250 cedis, send to this MoMo number to apply.",1,1,0.504
+"Instant loan approved! Borrow GHS 5,000 with no collateral. Send 200 cedis insurance fee first to release funds.",1,1,0.518
+"Dear customer, your loan of GHS 3,000 is ready. Pay the 10 percent processing fee to this number to get it.",1,0,0.494
+"Need cash fast? Get 10,000 cedis in 5 minutes. Just send 300 cedis for verification and we pay you immediately.",1,0,0.437
+"Your loan application was successful. Send GHS 150 to unlock your funds, offer expires today.",1,1,0.611
+Quick credit with zero requirements. Pay a small activation fee of 100 cedis and receive your loan now.,1,1,0.647
+We can clear your debts. Send your account details and 250 cedis and we will handle everything.,1,0,0.365
+"Pre-approved loan for you. To disburse, we need your PIN and an upfront fee of 180 cedis.",1,1,0.552
+"Get a loan without a guarantor. Transfer 400 cedis deposit and receive 8,000 cedis within an hour.",1,0,0.302
+Your bank account has been suspended. Click the link and enter your card number and PIN to restore access.,1,1,0.618
+GCB Alert: unusual activity on your card. Reply with your card number and CVV to cancel the payment.,1,1,0.715
+Dear customer your ATM card has expired. Send your PIN to update it and avoid account closure.,1,1,0.566
+Your account will be frozen. Verify your details immediately at the link below to keep your funds safe.,1,0,0.482
+"Bank notice: a payment of GHS 4,500 is pending. If you did not make it, send your PIN to stop it.",1,1,0.525
+Your online banking password expires today. Reset it now by sending your current password to this number.,1,1,0.592
+Ecobank security team: confirm your OTP and PIN to stop a fraudulent transaction on your account.,1,1,0.724
+"Your debit card has been blocked. To reactivate, send your card details and the code we sent by SMS.",1,1,0.766
+Your parcel from abroad is held at customs. Pay GHS 800 clearance fee to this wallet to receive it.,1,1,0.695
+"Dear customer, a package is waiting for you. Pay 120 cedis delivery charge now or it will be returned.",1,1,0.568
+My dear I am a soldier abroad and I want to send you a gift box. Pay the shipping fee of 900 cedis first.,1,0,0.166
+"I love you so much but my flight ticket money is missing. Please send 1,000 cedis so I can come and see you.",1,0,0.079
+"Invest 500 cedis today and receive 2,000 cedis in 3 days. Guaranteed returns, send to this MoMo number.",1,1,0.621
+Crypto doubling program: send any amount and we return double within 24 hours. Join now.,1,0,0.375
+Join our trading group and earn 300 percent monthly. Pay 400 cedis to the admin to be added.,1,0,0.446
+"Your relative abroad left you an inheritance of 2 million dollars. Send 1,500 cedis for legal papers.",1,1,0.563
+Payment received for GHS 50.00 from Ama Serwaa. Current balance GHS 215.40. Transaction ID 12345678.,0,1,0.636
+You have sent GHS 20.00 to Kofi Annan. Fee GHS 0.00. New balance GHS 94.50.,0,1,0.814
+Cash in received for GHS 100.00 from Agent Ibrahim. Balance GHS 130.00. Thank you for using MoMo.,0,1,0.579
+Your withdrawal of GHS 200.00 was successful. Balance GHS 45.20. Ref 98765432.,0,0,0.454
+You have bought airtime worth GHS 5.00. Your balance is GHS 60.00.,0,1,0.616
+Bill payment of GHS 85.00 to ECG prepaid was successful. Token will be sent shortly.,0,0,0.421
+You have paid GHS 30.00 to Melcom Accra Mall. Balance GHS 150.00.,0,0,0.499
+Your transfer of GHS 500.00 to your savings has been completed.,0,1,0.759
+Payment of GHS 12.00 for data bundle was successful. 2GB valid for 7 days.,0,1,0.501
+You have received GHS 75.00 from Yaw Boateng. Reference: lunch money.,0,1,0.508
+Your OTP is 482913. It expires in 5 minutes. Do not share this code with anyone.,0,0,0.375
+"GCB Alert: debit of GHS 120.00 at Shoprite on 12 Nov. Available balance GHS 1,340.50.",0,1,0.508
+"Your account has been credited with GHS 2,500.00 salary. Thank you for banking with us.",0,1,0.559
+Reminder: your loan instalment of GHS 300 is due on 25 November. Please pay at any branch.,0,0,0.396
+"Dear customer, never share your PIN or password with anyone, including bank staff.",0,0,0.465
+Your statement for October is ready. Log in to the official banking app to view it.,0,1,0.601
+"Your card ending 4821 was used at an ATM for GHS 200. If this was not you, visit your nearest branch.",0,0,0.362
+Please protect yourself from fraud. We will never ask for your PIN or OTP by SMS or phone.,0,1,0.835
+"You have 1.2GB left on your bundle, expiring on 28 November.",0,1,0.644
+Your airtime balance is GHS 3.20. Dial *124# to top up.,0,1,0.559
+Your monthly data plan has been renewed. 10GB valid for 30 days.,0,1,0.553
+Your SIM registration is complete. Thank you for updating your details.,0,0,0.436
+Network maintenance tonight from 12am to 3am. Some services may be slow.,0,1,0.51
+You have a missed call from 0244000000 at 3:15 pm.,0,1,0.702
+Your order is out for delivery and will arrive between 2pm and 5pm today.,0,0,0.481
+Your parcel has arrived at the pickup point on Oxford Street. Please bring your ID.,0,0,0.349
+Dispatch rider is 10 minutes away. Please keep your phone on.,0,1,0.506
+Your package was delivered. Rate your experience in the app.,0,0,0.389
+"Hey, are you coming to church on Sunday? Mum is making jollof afterwards.",0,0,0.126
+"Please call me when you are free, I want to ask you about the project.",0,0,0.404
+Happy birthday Efua! Hope you have an amazing day. Dinner on me this weekend.,0,0,0.196
+"I will be late, traffic at Madina is terrible. Start without me.",0,0,0.11
+Did you see the match yesterday? Black Stars were unbelievable.,0,0,0.124
+Can you send me the notes from yesterday's lecture please?,0,0,0.19
+Dad says he will pick you up at the station at 6.,0,0,0.055
+Thanks for the help today. I owe you a drink.,0,0,0.229
+"I'm at home now, come over whenever you are ready.",0,0,0.128
+"Abeg, which hostel did you say you stay in? I want to drop your charger.",0,0,0.152
+Mum asked if you have eaten. She left banku and soup in the fridge.,0,0,0.151
+"See you at the wedding on Saturday. Wear something nice, it is outdoors.",0,0,0.086
+Reminder: the project presentation is on Thursday at 10am in Room 204.,0,0,0.151
+The team meeting has moved to 3pm. Please bring your laptop.,0,0,0.427
+Your leave request for December has been approved by HR.,0,1,0.523
+Please submit your timesheet by Friday evening.,0,0,0.483
+Class is cancelled tomorrow. The lecturer is away at a conference.,0,0,0.111
+Your interview is scheduled for Monday at 9am. Please arrive 15 minutes early.,0,0,0.293
+The password for the guest wifi has been changed. Ask reception for the new one.,0,0,0.388
+Your application has been received. We will contact you within two weeks.,0,0,0.485
+Free delivery on all orders above GHS 100 this weekend at our store in Osu.,0,1,0.607
+"Please call me back, I tried reaching you twice this morning.",0,0,0.463
+"I'm free now, can I call you?",0,1,0.684
+Our customer care line will never ask for your PIN. Report suspicious calls to 100.,0,1,0.754
+Congratulations on your graduation! So proud of you. Celebration lunch on Saturday.,0,0,0.339
+The winner of the quiz competition was Team Ashesi. Well done to everyone who took part.,0,0,0.385
+Free ticket to the tech meetup next Friday if you register on the official site.,0,0,0.44
+"Don't forget to call the bank tomorrow about your card, they said it is ready for pickup.",0,0,0.353
+Reminder to change your PIN regularly and keep it secret. Visit the nearest branch if you need help.,0,0,0.286
+Your prize from the school raffle is ready for collection at the admin office. Bring your student ID.,0,0,0.496
+"Won't be able to call tonight, my phone is almost dead. Text me instead.",0,0,0.445
+Thanks for your payment of GHS 60. Your free gift wrap has been added to your order.,0,1,0.881

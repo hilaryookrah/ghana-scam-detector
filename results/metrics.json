@@ -1,0 +1,17 @@
+{
+  "model": "logistic_regression",
+  "cross_validated_f1": {
+    "logistic_regression": 0.934,
+    "naive_bayes": 0.821
+  },
+  "test_accuracy": 0.977,
+  "test_precision": 0.902,
+  "test_recall": 0.916,
+  "test_f1": 0.909,
+  "confusion": {
+    "true_negative": 890,
+    "false_positive": 13,
+    "false_negative": 11,
+    "true_positive": 120
+  }
+}
