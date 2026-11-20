@@ -1,0 +1,23 @@
+text,is_scam,pred_public_only,prob_public_only,pred_mixed,prob_mixed
+you just got this job offer click this link and enter your momo details,1,0,0.385,1,0.763
+I apologize for the inconvenience. My grandma is sick kindly help me buy sending money through this link click on it and enter your details,1,0,0.267,0,0.33
+Please i sent you 500 as an accident help me send it back to me,1,0,0.302,0,0.46
+You have recieved 1200 from Sam Abulai. Do nat share pin.,1,0,0.446,1,0.554
+Happy Birthday dearest customer. You are eligible for burthday bonus. A propt will appear..enter you rpin and receive your nonus,1,1,0.531,1,0.563
+Happry burthday customer. You have recieved 500 ghs for your loyalty,0,1,0.838,1,0.828
+Dear customer your momo wallet is blocked. Click this link and enter your pin to unblock,1,1,0.729,1,0.965
+Congrats you have been selected for free data. Dial this code and enter your PIN to receive,1,1,0.915,1,0.933
+Hello i am your cousin from abroad pls send me 200 cedis for airtime i will pay you back tomorrow click link to see my photo,1,0,0.324,1,0.699
+Pls my brother I sent you 300 cedis by mistake. Send it back now I beg you,1,0,0.199,1,0.647
+Your account have been credit with 2000ghs. To receive enter your pin on the prompt,1,1,0.808,1,0.945
+MTN promo: Win a free phone. Send your momo number and pin to enter the draw,1,1,0.885,1,0.983
+Dear sir your loan is approved. Pay 100ghs activation fee through this momo number to receive it,1,0,0.4,1,0.93
+Hello kindly help me with money for school fees. Click here to send it direct to my wallet,1,0,0.308,0,0.457
+You have received GHS 150.00 from Kofi Asante. Your new balance is GHS 320.00.,0,1,0.8,0,0.278
+Mum I have reached school safely. Will call you tonight.,0,0,0.226,0,0.117
+Your data bundle of 5GB has been activated. Valid for 30 days.,0,1,0.651,0,0.354
+Never share your PIN with anyone. Our staff will never ask for it.,0,0,0.364,0,0.24
+Hey are you free this weekend? Let us go and see the new movie.,0,0,0.317,0,0.201
+Your electricity token purchase was successful. Units added: 25.4,0,0,0.296,0,0.135
+Please call me when you get this. I want to ask about tomorrow's lecture.,0,0,0.253,0,0.166
+Thanks for your payment. Your order will be delivered tomorrow before 5pm.,0,1,0.579,0,0.433
